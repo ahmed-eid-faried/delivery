@@ -1,0 +1,178 @@
+{
+  "project_info": {
+    "project_number": "102571397024",
+    "project_id": "happayshop-98725",
+    "storage_bucket": "happayshop-98725.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102571397024:android:2e7708743db27dd0561ec5",
+        "android_client_info": {
+          "package_name": "com.amadytech.delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102571397024-t46h5u3p1prg9ogl1r2g33msndmfog7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUkc0-suSrM88qK1UMnAkTCcBXz0mlm0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "102571397024-j2kke7rv5opt3skmov85jo024ju4qs4v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "102571397024-2e20mc2ccq97b3vp541bed8evm9lq8l3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.amadytech.happyshop"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102571397024:android:286695232081bbb0561ec5",
+        "android_client_info": {
+          "package_name": "com.amadytech.happyshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102571397024-p9779nlbg5sn7s0acfo83s6e9ut17vcj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amadytech.happyshop",
+            "certificate_hash": "110b821260a97177a20569df79da5e22b3b271e1"
+          }
+        },
+        {
+          "client_id": "102571397024-t46h5u3p1prg9ogl1r2g33msndmfog7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUkc0-suSrM88qK1UMnAkTCcBXz0mlm0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "102571397024-j2kke7rv5opt3skmov85jo024ju4qs4v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "102571397024-2e20mc2ccq97b3vp541bed8evm9lq8l3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.amadytech.happyshop"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102571397024:android:197eb3a10255d516561ec5",
+        "android_client_info": {
+          "package_name": "com.example.adminapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102571397024-lmicfjaan4en253o1ns4tbva8b14o0bj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.adminapp",
+            "certificate_hash": "186065a74e3dc4b63877da7048e3331360cc6e02"
+          }
+        },
+        {
+          "client_id": "102571397024-t46h5u3p1prg9ogl1r2g33msndmfog7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUkc0-suSrM88qK1UMnAkTCcBXz0mlm0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "102571397024-j2kke7rv5opt3skmov85jo024ju4qs4v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "102571397024-2e20mc2ccq97b3vp541bed8evm9lq8l3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.amadytech.happyshop"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102571397024:android:3a03043de195e68f561ec5",
+        "android_client_info": {
+          "package_name": "com.example.delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102571397024-v8mcumqcrsaiuasirlb1i18vo6opckos.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.delivery",
+            "certificate_hash": "ad1dd724bad90646393b79058bc841dd64a6ed88"
+          }
+        },
+        {
+          "client_id": "102571397024-t46h5u3p1prg9ogl1r2g33msndmfog7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUkc0-suSrM88qK1UMnAkTCcBXz0mlm0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "102571397024-j2kke7rv5opt3skmov85jo024ju4qs4v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "102571397024-2e20mc2ccq97b3vp541bed8evm9lq8l3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.amadytech.happyshop"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

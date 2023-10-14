@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>825457825361-mcp1ll7fd0q73fcvak78gqer2uvuuik4.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.825457825361-mcp1ll7fd0q73fcvak78gqer2uvuuik4</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDk72N38-oMkSQHK_qzKBlXPDj4VeG09vE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>825457825361</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.amadytech.delivery</string>
+	<key>PROJECT_ID</key>
+	<string>ecommerce-4fd5b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ecommerce-4fd5b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:825457825361:ios:56971782ca987547ceca70</string>
+</dict>
+</plist>
